@@ -86,7 +86,7 @@ nav {
     flex-wrap:  wrap;
 }
 .f1 {
-    background-image: url(/img/capasite.jpg);
+    background-image: url(../img/capasite.jpg);
     background-size: cover;
     width: 1450px;
     height: 400px;
@@ -139,7 +139,7 @@ nav {
     flex-wrap: wrap;
 }
 .im {
-    background-image: url(/img/site1.jpg);
+    background-image: url(../img/site1.jpg);
     background-size: cover;
     width: 725px;
     flex-wrap: wrap;
@@ -190,7 +190,7 @@ p {
     flex-wrap: wrap;
 }
 .im2 {
-    background-image: url(/img/site2.jpg);
+    background-image: url(../img/site2.jpg);
     background-size: cover;
     width: 725px;
     flex-wrap: wrap;
@@ -206,7 +206,7 @@ p {
     flex-wrap: wrap;
 }
 .im3 {
-    background-image: url(/img/site3.jpg);
+    background-image: url(../img/site3.jpg);
     background-size: cover;
     width: 725px;
     flex-wrap: wrap;
@@ -231,7 +231,7 @@ p {
     flex-wrap: wrap;
 }
 .im4 {
-    background-image: url(/img/site4.jpg);
+    background-image: url(../img/site4.jpg);
     background-size: cover;
     width: 725px;
     flex-wrap: wrap;
